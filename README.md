@@ -14,12 +14,12 @@ This project is a MySQL-based relational database for managing a small clinic's 
 - SQL DDL (CREATE TABLE, PRIMARY KEY, FOREIGN KEY, etc.)
 
 ## 📁 File Contents
-- `clinic_db.sql`: Main SQL file to create the schema.
-- `erd.png`: Entity Relationship Diagram showing table relationships.
+- `Clinic_DB.sql`: Main SQL file to create the schema.
+- 'ERD screenshot.png`: Entity Relationship Diagram showing table relationships.
 - `README.md`: Setup and documentation.
 
 ## 🚀 How to Set Up
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/clinic-booking-system.git
+   git clone https://github.com/geekstar7/week8sqlproject.git
    cd clinic-booking-system
