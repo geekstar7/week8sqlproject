@@ -22,4 +22,4 @@ This project is a MySQL-based relational database for managing a small clinic's 
 1. Clone the repo:
    ```bash
    git clone https://github.com/geekstar7/week8sqlproject.git
-   cd clinic-booking-system
+
